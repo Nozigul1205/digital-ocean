@@ -1,0 +1,28 @@
+.align-text-top {
+  margin-left: 200%;
+}
+
+.btn {
+  margin-left: 70%;
+}
+
+.nav-item {
+  margin-left: 60%;
+}
+
+.btn1 {
+  background-color: #0082F4;
+}
+
+.txt {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 23.44px;
+  text-align: left;
+  color: #fff;
+}
+
+.card {
+  margin-left: 10%;
+}/*# sourceMappingURL=style.css.map */
